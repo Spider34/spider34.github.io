@@ -1,7 +1,5 @@
 # Particle Jekyll Theme
 
-![](./particle.jpg)
-
 This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
 
 The Theme features:
@@ -28,18 +26,17 @@ You have to fill some informations on `_config.yml` to customize your site.
 
 ```
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: A blog about me
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Spider
+user_description: Student and Software Developer
+user_title: Rakesh Kumar
+email: rakekum34@gmail.com
+linkedin : rakesh-kumar-2b05a4138
+github_username:  spider34
 ```
 
 **Don't forget to change your url before you deploy your site!**
@@ -55,20 +52,6 @@ gplus_username:  lorem_ipsum
 
 In order to compile the assets and run Jekyll on local you need to follow those steps:
 
-- Install [NodeJS](https://nodejs.org/)
-- Run `npm install`
-- Run `gulp`
-
-## Questions
-
-Having any issues file a [GitHub Issue](https://github.com/nrandecker/particle/issues/new).
-
-## License
-
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
-
-## Credits
-
-This theme was partially designed with the inspiration from these fine folks
-- [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
-- [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
+- Install [NodeJS](https://nodejs.org/en/download/package-manager/)
+- Install jekyll
+- Run 'jekyll serve'
